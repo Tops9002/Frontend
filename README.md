@@ -4,16 +4,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## Table of contents
 
-- [Overview](#overview)
+
   - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-- [Author](#author)
+  - [Author](#author)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+- Live Site URL: [https://tops9002.github.io/Frontend/)
 
 ### Built with
 
@@ -25,9 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 The basics of using margins and paddings.
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+
 ```css
 body{
     font-family: "Outfit", sans-serif;
