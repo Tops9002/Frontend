@@ -25,6 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 The basics of using margins and paddings.
+A little snippet below:
 
 ```css
 body{
